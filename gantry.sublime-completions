@@ -1,0 +1,144 @@
+{
+   "scope": "text.html - source - meta.tag, punctuation.definition.tag.begin",
+
+   "completions":
+   [
+
+		{ "trigger": "lead\tGantry class", "contents": "lead" },
+		{ "trigger": "success\tGantry class", "contents": "success" },
+		{ "trigger": "warning\tGantry class", "contents": "warning" },
+		{ "trigger": "info\tGantry class", "contents": "info" },
+		{ "trigger": "error\tGantry class", "contents": "error" },
+
+		{ "trigger": "initialism\tGantry class", "contents": "initialism" },
+		{ "trigger": "pull-right\tGantry class", "contents": "pull-right" },
+
+		{ "trigger": "unstyled\tGantry class", "contents": "unstyled" },
+
+		{ "trigger": "dl-horizontal\tGantry class", "contents": "dl-horizontal" },
+
+		{ "trigger": "pre-scrollable\tGantry class", "contents": "pre-scrollable" },
+		{ "trigger": "prettyprint\tGantry class", "contents": "prettyprint" },
+		{ "trigger": "linenums\tGantry class", "contents": "linenums" },
+
+		{ "trigger": "clear\tGantry class", "contents": "clear" },
+
+		{ "trigger": "table\tGantry class", "contents": "table" },
+		{ "trigger": "table-striped\tGantry class", "contents": "table-striped" },
+		{ "trigger": "table-bordered\tGantry class", "contents": "table-bordered" },
+		{ "trigger": "table-hover\tGantry class", "contents": "table-hover" },
+		{ "trigger": "table-condensed\tGantry class", "contents": "table-condensed" },
+
+		{ "trigger": "help-block\tGantry class", "contents": "help-block" },
+		{ "trigger": "checkbox\tGantry class", "contents": "checkbox" },
+		{ "trigger": "radio\tGantry class", "contents": "radio" },
+		{ "trigger": "form-search\tGantry class", "contents": "form-search" },
+		{ "trigger": "search-query\tGantry class", "contents": "search-query" },
+		{ "trigger": "input-mini\tGantry class", "contents": "input-mini" },
+		{ "trigger": "input-small\tGantry class", "contents": "input-small" },
+		{ "trigger": "input-medium\tGantry class", "contents": "input-medium" },
+		{ "trigger": "input-large\tGantry class", "contents": "input-large" },
+		{ "trigger": "input-xlarge\tGantry class", "contents": "input-xlarge" },
+		{ "trigger": "input-xxlarge\tGantry class", "contents": "input-xxlarge" },
+		{ "trigger": "uneditable-input\tGantry class", "contents": "uneditable-input" },
+		{ "trigger": "form-inline\tGantry class", "contents": "form-inline" },
+		{ "trigger": "inline\tGantry class", "contents": "inline" },
+		{ "trigger": "control-group\tGantry class", "contents": "control-group" },
+		{ "trigger": "control-label\tGantry class", "contents": "control-label" },
+		{ "trigger": "controls\tGantry class", "contents": "controls" },
+		{ "trigger": "input-prepend\tGantry class", "contents": "input-prepend" },
+		{ "trigger": "input-append\tGantry class", "contents": "input-append" },
+		{ "trigger": "add-on\tGantry class", "contents": "add-on" },
+		{ "trigger": "span2\tGantry class", "contents": "span2" },
+		{ "trigger": "form-search\tGantry class", "contents": "form-search" },
+		{ "trigger": "form-horizontal\tGantry class", "contents": "form-horizontal" },
+		{ "trigger": "form-actions\tGantry class", "contents": "form-actions" },
+
+		{ "trigger": "button\tGantry class", "contents": "button" },
+		{ "trigger": "btn-primary\tGantry class", "contents": "btn-primary" },
+		{ "trigger": "btn-info\tGantry class", "contents": "btn-info" },
+		{ "trigger": "btn-success\tGantry class", "contents": "btn-success" },
+		{ "trigger": "btn-warning\tGantry class", "contents": "btn-warning" },
+		{ "trigger": "btn-danger\tGantry class", "contents": "btn-danger" },
+		{ "trigger": "btn-inverse\tGantry class", "contents": "btn-inverse" },
+		{ "trigger": "btn-link\tGantry class", "contents": "btn-link" },
+		{ "trigger": "btn-large\tGantry class", "contents": "btn-large" },
+		{ "trigger": "btn-small\tGantry class", "contents": "btn-small" },
+		{ "trigger": "btn-mini\tGantry class", "contents": "btn-mini" },
+		{ "trigger": "btn-block\tGantry class", "contents": "btn-block" },
+		{ "trigger": "disabled\tGantry class", "contents": "disabled" },
+
+		{ "trigger": "large\tGantry class", "contents": "large" },
+		{ "trigger": "small\tGantry class", "contents": "small" },
+		{ "trigger": "nomarginright\tGantry class", "contents": "nomarginright" },
+		{ "trigger": "nomarginleft\tGantry class", "contents": "nomarginleft" },
+		{ "trigger": "nomargintop\tGantry class", "contents": "nomargintop" },
+		{ "trigger": "nomarginbottom\tGantry class", "contents": "nomarginbottom" },
+		{ "trigger": "nomarginall\tGantry class", "contents": "nomarginall" },
+
+		{ "trigger": "nopaddingright\tGantry class", "contents": "nopaddingright" },
+		{ "trigger": "nopaddingleft\tGantry class", "contents": "nopaddingleft" },
+		{ "trigger": "nopaddingtop\tGantry class", "contents": "nopaddingtop" },
+		{ "trigger": "nopaddingbottom\tGantry class", "contents": "nopaddingbottom" },
+		{ "trigger": "nopaddingall\tGantry class", "contents": "nopaddingall" },
+
+		{ "trigger": "gantry-left\tGantry class", "contents": "gantry-left" },
+		{ "trigger": "gantry-right\tGantry class", "contents": "gantry-right" },
+		{ "trigger": "rt-center\tGantry class", "contents": "rt-center" },
+
+		{ "trigger": "rt-title-center\tGantry class", "contents": "rt-title-center" },
+		{ "trigger": "rt-title-large\tGantry class", "contents": "rt-title-large" },
+		{ "trigger": "rt-nomodulecontent\tGantry class", "contents": "rt-nomodulecontent" },
+
+		{ "trigger": "promo1\tGantry class", "contents": "promo1" },
+		{ "trigger": "promo2\tGantry class", "contents": "promo2" },
+
+		{ "trigger": "readon\tGantry class", "contents": "readon" },
+
+		{ "trigger": "visible-phone\tGantry class", "contents": "visible-phone" },
+		{ "trigger": "visible-tablet\tGantry class", "contents": "visible-tablet" },
+		{ "trigger": "visible-desktop\tGantry class", "contents": "visible-desktop" },
+		{ "trigger": "visible-large\tGantry class", "contents": "visible-large" },
+		{ "trigger": "hidden-phone\tGantry class", "contents": "hidden-phone" },
+		{ "trigger": "hidden-tablet\tGantry class", "contents": "hidden-tablet" },
+		{ "trigger": "hidden-desktop\tGantry class", "contents": "hidden-desktop" },
+		{ "trigger": "hidden-large\tGantry class", "contents": "hidden-large" },
+
+		{ "trigger": "gantry-row\tGantry class", "contents": "gantry-row" },
+
+		{ "trigger": "gantry-width-container\tGantry class", "contents": "gantry-width-container" },
+		{ "trigger": "gantry-width-spacer\tGantry class", "contents": "gantry-width-spacer" },
+
+		{ "trigger": "gantry-width-block\tGantry class", "contents": "gantry-width-block" },
+		{ "trigger": "gantry-width-15\tGantry class", "contents": "gantry-width-15" },
+		{ "trigger": "gantry-width-20\tGantry class", "contents": "gantry-width-20" },
+		{ "trigger": "gantry-width-25\tGantry class", "contents": "gantry-width-25" },
+		{ "trigger": "gantry-width-30\tGantry class", "contents": "gantry-width-30" },
+		{ "trigger": "gantry-width-33\tGantry class", "contents": "gantry-width-33" },
+		{ "trigger": "gantry-width-40\tGantry class", "contents": "gantry-width-40" },
+		{ "trigger": "gantry-width-50\tGantry class", "contents": "gantry-width-50" },
+		{ "trigger": "gantry-width-60\tGantry class", "contents": "gantry-width-60" },
+		{ "trigger": "gantry-width-66\tGantry class", "contents": "gantry-width-66" },
+		{ "trigger": "gantry-width-70\tGantry class", "contents": "gantry-width-70" },
+		{ "trigger": "gantry-width-75\tGantry class", "contents": "gantry-width-75" },
+		{ "trigger": "gantry-width-80\tGantry class", "contents": "gantry-width-80" },
+
+		{ "trigger": "gantry-width-spacer\tGantry class", "contents": "gantry-width-spacer" },
+		{ "trigger": "readon\tGantry class", "contents": "readon" },
+		{ "trigger": "readon\tGantry class", "contents": "readon" },
+		{ "trigger": "readon\tGantry class", "contents": "readon" },
+
+		{ "trigger": "g-lead\t<p class\"lead\">", "contents": "<p class=\"lead\">$0</p>" },
+		{ "trigger": "g-success\t<p class\"success\">", "contents": "<p class=\"success\">$0</p>" },
+		{ "trigger": "g-warning\t<p class\"warning\">", "contents": "<p class=\"warning\">$0</p>" },
+		{ "trigger": "g-info\t<p class\"info\">", "contents": "<p class=\"info\">$0</p>" },
+		{ "trigger": "g-error\t<p class\"error\">", "contents": "<p class=\"error\">$0</p>" },
+		
+		{ "trigger": "g-abbr\t<abbr title\"atribute\">", "contents": "<abbr title=\"${1:attribute}\">$0</abbr>" },
+		{ "trigger": "g-abbr-initialism\t<abbr title\"atribute\">", "contents": "<abbr class=\"initialism\" title=\"${1:attribute}\">$0</abbr>" },
+		{ "trigger": "g-blockquote\t<blockquote><p>", "contents": "<blockquote><p>$0</p></blockquote>" },
+		{ "trigger": "g-blockquote-small-cite\t<blockquote><p><small><cite>", "contents": "<blockquote><p>$1</p><small>${2:someone}<cite title=\"${3:title}\">${3:title}</cite></small></p></blockquote>" },
+		{ "trigger": "g-blockquote-small-cite-right\t<blockquote><p><small><cite>", "contents": "<blockquote class=\"pull-right\"><p>$1</p><small>${2:someone}<cite title=\"${3:title}\">${3:title}</cite></small></blockquote>" }
+
+	]
+}
